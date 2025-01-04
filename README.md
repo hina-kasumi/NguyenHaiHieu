@@ -3,4 +3,4 @@
 - Mã sinh viên: 231230774
 - Chụp bài thực hành
 
-![hihi](./img.png)
+![hihi](./img1.png)
